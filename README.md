@@ -1,4 +1,4 @@
-🔹 Complete Project Description
+ Complete Project Description
 Project Title:
 Train Ticket Reservation System
 
@@ -18,7 +18,7 @@ The Train Ticket Reservation System is a dynamic, file/database-driven web appli
 This project demonstrates the integration of Java and Servlets with an Oracle database to build a robust reservation system that can handle multiple trains, users, and transactions efficiently.
 
 Key Features:
-🔸 User Module (Passenger):
+ User Module (Passenger):
 View available trains by source and destination
 
 Check seat availability
@@ -29,7 +29,7 @@ View booking confirmation and ticket details
 
 Cancel reservations
 
-🔸 Admin Module:
+ Admin Module:
 Add/update/delete train details
 
 Manage train routes and schedules
